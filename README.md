@@ -20,4 +20,4 @@ B.Tech Computer Science student passionate about turning data into insights.
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/princegupta0030)
+[LinkedIn](https://www.linkedin.com/in/prince2s)
