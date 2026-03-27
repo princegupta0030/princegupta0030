@@ -37,5 +37,5 @@ I’m a B.Tech Computer Science (Data Science & Analytics) student with a missio
 <p align="left">
 <a href="https://www.linkdin.com/in/prince2s" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Gupta LinkedIn" /></a>
 <a href="princegupta0030@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Gupta Email" /></a>
-<a href="https://www.instagram.com/prince_2s/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Gupta Instagram" /></a>
+<a href="https://www.instagram.com/p_r_i_n_c_e__2s/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Gupta Instagram" /></a>
 </p>
