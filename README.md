@@ -32,8 +32,6 @@ I’m a B.Tech Computer Science (Data Science & Analytics) student with a missio
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/prince2s)
-[E-mail](princegupta0030@gmail.com)
 <p align="left">
 <a href="https://www.linkdin.com/in/prince2s" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Gupta LinkedIn" /></a>
 <a href="princegupta0030@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Gupta Email" /></a>
