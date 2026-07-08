@@ -33,11 +33,10 @@ I’m a B.Tech Computer Science (Data Science & Analytics) student with a missio
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=princegupta0030&show_icons=true&theme=radical" alt="Prince's GitHub stats" />
 </p>
-
 ---
 
 ### 📫 Connect with me
