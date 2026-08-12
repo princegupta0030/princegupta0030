@@ -50,7 +50,7 @@ I’m a B.Tech Computer Science (Data Science & Analytics) student with a missio
   <a href="mailto:princeguptapg0030@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Gupta Email" />
   </a>
-  <a href="https://instagram.com/prince__gupta03" target="_blank">
+  <a href="https://www.instagram.com/p_r_i_n_c_e__2s/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Gupta Instagram" />
   </a>
 </p>
