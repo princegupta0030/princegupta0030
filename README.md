@@ -46,7 +46,7 @@
 
 ---
 
-# `01 // SYSTEM INITIALIZATION`
+# `SYSTEM INITIALIZATION`
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -73,7 +73,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 ---
 
-# `02 // CORE CAPABILITIES`
+# `CORE CAPABILITIES`
 
 <div align="center">
 
@@ -88,7 +88,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 ---
 
-# `03 // TECH STACK`
+# `TECH STACK`
 
 ## `PROGRAMMING`
 
@@ -154,7 +154,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 ---
 
-# `04 // EXPERIENCE`
+# `EXPERIENCE`
 
 ## 🔬 Data Science Intern — Corizo Private Limited
 
@@ -202,7 +202,7 @@ HTML5 + CSS3 + JavaScript
 
 ---
 
-# `05 // FEATURED PROJECTS`
+# `FEATURED PROJECTS`
 
 ## 📊 Customer Data Analysis & Power BI Dashboard
 
@@ -276,7 +276,7 @@ ACTIONABLE INSIGHTS
 
 ---
 
-# `06 // DATA SCIENCE PIPELINE`
+# `DATA SCIENCE PIPELINE`
 
 <p align="center">
 
@@ -318,7 +318,7 @@ ACTIONABLE INSIGHTS
 
 ---
 
-# `07 // GITHUB TELEMETRY`
+# `GITHUB TELEMETRY`
 
 <p align="center">
 
@@ -348,7 +348,7 @@ alt="Top Languages"
 
 ---
 
-# `08 // ACTIVITY SIGNAL`
+# `ACTIVITY SIGNAL`
 
 <p align="center">
 
@@ -401,7 +401,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# `09 // GITHUB ACHIEVEMENTS`
+# `GITHUB ACHIEVEMENTS`
 
 <p align="center">
 
@@ -415,7 +415,7 @@ alt="GitHub Trophies"
 
 ---
 
-# `10 // EDUCATION`
+# `EDUCATION`
 
 ### 🎓 B.Tech — Computer Science & Engineering (Data Science)
 
@@ -447,7 +447,7 @@ alt="GitHub Trophies"
 
 ---
 
-# `11 // CERTIFICATIONS`
+# `CERTIFICATIONS`
 
 🏆 **Deloitte — Data Analytics Job Simulation**
 
@@ -455,7 +455,7 @@ alt="GitHub Trophies"
 
 ---
 
-# `12 // SYSTEM PROFILE`
+# `SYSTEM PROFILE`
 
 <details>
 <summary><b>▶ ABOUT ME</b></summary>
@@ -555,7 +555,7 @@ DEVELOPMENT
 
 ---
 
-# `13 // CONNECT`
+# `CONNECT`
 
 <p align="center">
 
