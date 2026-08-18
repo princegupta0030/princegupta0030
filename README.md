@@ -1,71 +1,40 @@
-# ⚡ PRINCE KUMAR GUPTA
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=DATA+SCIENCE+%26+ANALYTICS;PYTHON+%7C+SQL+%7C+POWER+BI;MACHINE+LEARNING+%7C+DATA+VISUALIZATION;TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHTS" alt="Typing Animation"/>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00111A,50:00E5FF,100:00111A&height=4" width="90%">
-</p>
-
-<p align="center">
-
-<a href="https://github.com/princegupta0030">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-<a href="https://linkedin.com/in/prince87">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-</a>
-
-<a href="mailto:princegupta0030@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=princegupta0030&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" />
-
-</p>
-
----
-
 <div align="center">
 
-<img src="./assets/prince-sketch.gif" width="280" alt="Prince Kumar Gupta - Animated Sketch"/>
-
-<br>
-
-### `PRINCE KUMAR GUPTA`
+# ⚡ PRINCE KUMAR GUPTA
 
 **B.Tech Computer Science — Data Science & Analytics**
 
 `DATA • CODE • INTELLIGENCE • VISUALIZATION`
 
 </div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=DATA+SCIENCE+%26+ANALYTICS;PYTHON+%7C+SQL+%7C+POWER+BI;MACHINE+LEARNING+%7C+DATA+VISUALIZATION;TURNING+RAW+DATA+INTO+ACTIONABLE+INSIGHTS" alt="Typing Animation"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00111A,50:00E5FF,100:00111A&height=4" width="90%">
 
----
+</p>
+
 
 # `SYSTEM INITIALIZATION`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
+╔═════════════════════════════════════════════════════════╗
+║                                                         ║
 ║                 PRINCE KUMAR GUPTA                      ║
-║                                                          ║
+║                                                         ║
 ║   ROLE       : DATA SCIENCE & ANALYTICS STUDENT         ║
 ║   LOCATION   : GORAKHPUR, UTTAR PRADESH                 ║
 ║   EDUCATION  : B.TECH COMPUTER SCIENCE                  ║
-║   CGPA       : 7.71                                     ║
-║                                                          ║
+║   CGPA       : 7.71                                     ║                                                       ║
 ║   STATUS     : ● BUILDING                               ║
 ║   MODE       : ● ANALYTICAL                             ║
 ║   MISSION    : DATA → INSIGHT → IMPACT                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+║                                                         ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
-> **I turn raw data into clear insights, intelligent models, and business-ready visualizations.**
+ **I turn raw data into clear insights, intelligent models, and business-ready visualizations.**
 
 I'm a **B.Tech Computer Science (Data Science) student** with hands-on experience in **data analysis, data quality, machine learning, business intelligence, and web development**.
 
@@ -90,7 +59,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 # `TECH STACK`
 
-## `PROGRAMMING`
+### `PROGRAMMING`
 
 <p align="center">
 
@@ -103,7 +72,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 </p>
 
-## `DATABASES`
+### `DATABASES`
 
 <p align="center">
 
@@ -112,7 +81,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 </p>
 
-## `DATA SCIENCE`
+### `DATA SCIENCE`
 
 <p align="center">
 
@@ -121,7 +90,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 </p>
 
-## `VISUALIZATION`
+### `VISUALIZATION`
 
 <p align="center">
 
@@ -131,7 +100,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 </p>
 
-## `MACHINE LEARNING`
+### `MACHINE LEARNING`
 
 <p align="center">
 
@@ -141,7 +110,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 </p>
 
-## `DEVELOPMENT`
+### `DEVELOPMENT`
 
 <p align="center">
 
@@ -156,7 +125,7 @@ My work focuses on transforming messy datasets into reliable information and bui
 
 # `EXPERIENCE`
 
-## 🔬 Data Science Intern — Corizo Private Limited
+### 🔬 Data Science Intern — Corizo Private Limited
 
 `AUG 2025 — SEP 2025`
 
@@ -182,7 +151,7 @@ INSIGHTS
 
 ---
 
-## 💻 Web Development Intern — CodeSoft
+### 💻 Web Development Intern — CodeSoft
 
 `JUN 2025 — JUL 2025`
 
