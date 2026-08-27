@@ -26,7 +26,7 @@
 ║   ROLE       : DATA SCIENCE & ANALYTICS STUDENT         ║
 ║   LOCATION   : GORAKHPUR, UTTAR PRADESH                 ║
 ║   EDUCATION  : B.TECH COMPUTER SCIENCE                  ║
-║   CGPA       : 7.71                                     ║                                                       ║
+║   CGPA       : 7.71                                     ║                                                       
 ║   STATUS     : ● BUILDING                               ║
 ║   MODE       : ● ANALYTICAL                             ║
 ║   MISSION    : DATA → INSIGHT → IMPACT                  ║
